@@ -1,7 +1,6 @@
 # Senior Full-Stack Engineer | AI, BlockChain, Android
 
-
-## Hello Everyone, Welcome to my profile. 
+## Summary
 
 I am a Senior Software Engineer with 10 years of proven expertise in designing, developing, and delivering scalable 
 full-stack applications. Proficient in a diverse set of programming languages, including JavaScript, TypeScript, 
@@ -19,8 +18,6 @@ enhance software quality and team productivity.
 Proven ability to lead complex projects end-to-end, collaborating across multidisciplinary teams to deliver impactful 
 solutions that align with business goals. Passionate about continuous learning and leveraging cutting-edge 
 technologies to drive innovation and operational excellence in software engineering
-
-## I am not looking for opportunity. I am your opportunity.
 
 <h2>More about my skillset</h2>
 
