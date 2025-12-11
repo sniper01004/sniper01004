@@ -2,12 +2,7 @@
 
 ## Hello Everyone, Welcome to my profile. 
 
--  ![react Na](https://img.shields.io/badge/React%20Native-%23223C35) ![Ionic](https://img.shields.io/badge/Ionic-%23639BDA) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B)
--  ![React](https://img.shields.io/badge/React-MERN%2C%20Next.js%20-green) ![Vue](https://img.shields.io/badge/Vue-MEVN%2C%20Nuxt.js%20-green) ![Angular](https://img.shields.io/badge/Angular-MEAN%2C%20-green)
--  ![Headless CMS](https://img.shields.io/badge/Headless%20CMS-Svelte%2C%20Payload%20CMS%20-blue)
--  ![Django](https://img.shields.io/badge/Django-Flask-purple)
--  ![UI Frameworks](https://img.shields.io/badge/UI%20Frameworks-Tailwind%20CSS%2C%20Bootstrap%2C%20ANTD%2C%20Material%20UI%20-yellow)
--  ![Databases](https://img.shields.io/badge/Databases-Supabase%2C%20Firebase%2C%20Prisma%2C%20MongoDB%20PostgreSQL%20MySQL%20-blue)
+
 
 ## I am not looking for opportunity. I am your opportunity.
 
