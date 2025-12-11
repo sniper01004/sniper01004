@@ -1,4 +1,4 @@
-# Senior Full-Stack Engineer | Smart Contract, Web3, React Native
+# Senior Full-Stack Engineer | AI integration, AI agency, Smart Contract, Web3, React Native
 
 ## Hello Everyone, Welcome to my profile. 
 
