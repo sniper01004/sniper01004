@@ -23,6 +23,7 @@ technologies to drive innovation and operational excellence in software engineer
 
 <div style="display: flex; align-items: flex-start; align: center">
   <p> Language </p>
+  <table align="center">
    <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
@@ -65,6 +66,7 @@ technologies to drive innovation and operational excellence in software engineer
       <br>Supabase
     </td>
   </tr>
+    </table>
 <table align="center">
   <tr>
     <td align="center" width="90">
