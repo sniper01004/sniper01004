@@ -1,4 +1,4 @@
-# Senior Full-Stack Web & Mobile Developer(JS/TS/Python) - React/Next.js | React Native/Ionic/Flutter | Headless CMS | Django | Web3
+# Senior Full-Stack Engineer | Smart Contract, Web3, React Native
 
 ## Hello Everyone, Welcome to my profile. 
 
