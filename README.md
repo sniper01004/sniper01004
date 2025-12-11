@@ -19,7 +19,7 @@ Proven ability to lead complex projects end-to-end, collaborating across multidi
 solutions that align with business goals. Passionate about continuous learning and leveraging cutting-edge 
 technologies to drive innovation and operational excellence in software engineering
 
-##More about my skillset
+## More about my skillset
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
