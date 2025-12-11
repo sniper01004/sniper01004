@@ -1,8 +1,8 @@
-# Senior Full-Stack Engineer | AI, BlockChain, Android
+# Senior Full Stack Engineer | AI, BlockChain, Android
 
 ## Summary
 
-I am a Senior Software Engineer with 10 years of proven expertise in designing, developing, and delivering scalable 
+I am a Senior Full Stack Engineer with 10 years of proven expertise in designing, developing, and delivering scalable 
 full-stack applications. Proficient in a diverse set of programming languages, including JavaScript, TypeScript, 
 Python, Java, C#, and Rust, with a strong command of modern frontend frameworks such as React, Angular, Next.js, 
 React Native, and Vue.js. Skilled in building robust backend systems using Node.js, Django, Laravel, PHP, .NET, and 
