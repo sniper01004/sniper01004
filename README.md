@@ -21,6 +21,13 @@ technologies to drive innovation and operational excellence in software engineer
 
 ## More about my skillset
 
+<div style="display: flex; flex-direction: column">
+  <div style="display: flex; flex-direction: column">
+    <h2>Language</h2>
+    
+  </div>
+</div>
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
