@@ -47,7 +47,7 @@ technologies to drive innovation and operational excellence in software engineer
     </td>
      <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C++
+      <br>C+
     </td>
   </tr>
 </table>
