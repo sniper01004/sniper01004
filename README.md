@@ -50,7 +50,7 @@ technologies to drive innovation and operational excellence in software engineer
       <br>C++
     </td>
   </tr>
-</table>
+</table> 
 <p> Frontend </p>
 <table align="center">
   <tr>
