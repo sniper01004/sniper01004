@@ -22,10 +22,9 @@ technologies to drive innovation and operational excellence in software engineer
 ## Skill
 
 <div style="display: flex; flex-direction: column;">
-  <div style="display: flex; flex-direction: column;">
-    <p> Language </p>
-    <table align="left" style="display: flex">
-     <tr>
+  <p> Language </p>
+  <table align="left" style="display: flex">
+    <tr>
       <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
         <br>Javascript
@@ -50,11 +49,11 @@ technologies to drive innovation and operational excellence in software engineer
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
         <br>C++
       </td>
-      </tr>
-    </table> 
-  </div>
+    </tr>
+  </table> 
+</div>
   <div style="display: flex; flex-direction: column;">
-    <br/> <br/> <br/> <br/> Frontend 
+    Frontend 
     <table align="left">
       <tr>
         <td align="center" width="90">
