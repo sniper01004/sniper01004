@@ -85,7 +85,7 @@ technologies to drive innovation and operational excellence in software engineer
     </table>
   </div>
 
-<table align="center">
+<!-- <table align="center">
   
   <tr>
     <td align="center" width="90">
@@ -179,4 +179,4 @@ technologies to drive innovation and operational excellence in software engineer
       <br>VScode
     </td>
   </tr>
-</table>
+</table> -->
