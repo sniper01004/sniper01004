@@ -23,7 +23,7 @@ technologies to drive innovation and operational excellence in software engineer
 
 <div style="display: flex; flex-direction: column;">
   <p> Language </p>
-  <table align="left">
+  <table align="left" style="display: flex">
    <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
