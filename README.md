@@ -50,7 +50,7 @@ technologies to drive innovation and operational excellence in software engineer
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind CSS
+      <br>Tailwind
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
