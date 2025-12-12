@@ -21,7 +21,9 @@ technologies to drive innovation and operational excellence in software engineer
 
 ## Service
 
-- 
+- Maintaining the same environment as customers and on-site
+- Accurately meet customer requirements within the given timeframe
+- Supports real-time updates even after the project is successfully launched
 
   
 ## Skills
