@@ -121,6 +121,10 @@ technologies to drive innovation and operational excellence in software engineer
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
     </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=dotnet" height="45" width="45" alt="dotnet" >
+      <br>dotnet
+    </td>
 </table>
 <!-- database -->
 <table>
@@ -148,32 +152,9 @@ technologies to drive innovation and operational excellence in software engineer
   </tr>
 </table>
 
-<!-- <table align="center">
-  
+<table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
-      <br>Supabase
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
+     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
       <br>Flutter
     </td>
@@ -181,24 +162,6 @@ technologies to drive innovation and operational excellence in software engineer
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
       <br>Android
     </td>
-    
-    
-    
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=dotnet" height="45" width="45" alt="dotnet" >
-      <br>dotnet
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=figma" height="45" >
-      <br>figma
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Solidity" />
-      <br>Vercel
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="Rust" />
-      <br>VScode
-    </td>
   </tr>
-</table> -->
+</table>
+
