@@ -54,7 +54,7 @@ technologies to drive innovation and operational excellence in software engineer
     </table> 
   </div>
   <div style="display: flex; flex-direction: column;">
-    <br> Frontend 
+    <br/> <br/> <br/> <br/> Frontend 
     <table align="left">
       <tr>
         <td align="center" width="90">
