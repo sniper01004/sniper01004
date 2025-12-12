@@ -22,7 +22,7 @@ technologies to drive innovation and operational excellence in software engineer
 ## Skill
 
 <div style="display: flex; flex-direction: column;">
-  <div>
+  <div style="display: flex; flex-direction: column;">
     <p> Language </p>
     <table align="left" style="display: flex">
      <tr>
@@ -53,7 +53,7 @@ technologies to drive innovation and operational excellence in software engineer
       </tr>
     </table> 
   </div>
-  <div>
+  <div style="display: flex; flex-direction: column;">
     <p> Frontend </p>
     <table align="left">
       <tr>
