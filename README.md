@@ -22,7 +22,7 @@ technologies to drive innovation and operational excellence in software engineer
 ## Skill
 
 <div>
-  <p> Language </p>
+   Language
   <table align="left" style="display: flex">
     <tr>
       <td align="center" width="90">
