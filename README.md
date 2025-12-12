@@ -21,7 +21,7 @@ technologies to drive innovation and operational excellence in software engineer
 
   
 ## Skill
-  
+<!-- language -->
 <table align="left" style="display: flex">
   <tr>
     <td align="center" width="100">
@@ -50,7 +50,7 @@ technologies to drive innovation and operational excellence in software engineer
     </td>
   </tr>
 </table> 
-
+<!-- frontend -->
 <table align="left">
   <tr>
     <td align="center" width="100">
@@ -95,7 +95,7 @@ technologies to drive innovation and operational excellence in software engineer
     </td>
   </tr>
 </table>
-
+<!-- backend -->
 <table align="left">
   <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NestJS" />
@@ -122,33 +122,7 @@ technologies to drive innovation and operational excellence in software engineer
       <br>PHP
     </td>
 </table>
-
-<table align="left">
-  <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NestJS" />
-      <br>Nodejs
-    </td>
-  <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="NestJS" />
-      <br>Nestjs
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
-      <br>PHP
-    </td>
-</table>
+<!-- database -->
 <table>
   <tr>
     <td align="center" width="100">
