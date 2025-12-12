@@ -24,7 +24,9 @@ technologies to drive innovation and operational excellence in software engineer
   
 <table align="left" style="display: flex">
   <tr>
-    Languages 
+    <td>      
+     Languages 
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
