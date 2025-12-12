@@ -19,8 +19,12 @@ Proven ability to lead complex projects end-to-end, collaborating across multidi
 solutions that align with business goals. Passionate about continuous learning and leveraging cutting-edge 
 technologies to drive innovation and operational excellence in software engineering
 
+## Service
+
+- 
+
   
-## Skill
+## Skills
 <!-- language -->
 <table align="left" style="display: flex">
   <tr>
