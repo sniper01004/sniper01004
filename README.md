@@ -51,7 +51,7 @@ technologies to drive innovation and operational excellence in software engineer
     </td>
   </tr>
 </table> 
-<p> Frontend </p>
+<br/><p> Frontend </p>
 <table align="left">
   <tr>
     <td align="center" width="90">
