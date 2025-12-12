@@ -20,7 +20,7 @@ solutions that align with business goals. Passionate about continuous learning a
 technologies to drive innovation and operational excellence in software engineering
 
   
-## Language
+## Skill
   
 <table align="left" style="display: flex">
   <tr>
@@ -47,6 +47,18 @@ technologies to drive innovation and operational excellence in software engineer
      <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
       <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
+      <br>Styled
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+      <br>Three.js
     </td>
   </tr>
 </table> 
@@ -77,13 +89,15 @@ technologies to drive innovation and operational excellence in software engineer
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+      <br>MaterialUI
+    </td>
   </tr>
 </table>
 
-<!-- <table align="center">
-  
-  <tr>
-    <td align="center" width="90">
+<table align="left">
+  <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
     </td>
@@ -107,6 +121,13 @@ technologies to drive innovation and operational excellence in software engineer
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NestJS" />
       <br>Nodejs
     </td>
+</table>
+
+<!-- <table align="center">
+  
+  <tr>
+    
+    
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
@@ -141,22 +162,9 @@ technologies to drive innovation and operational excellence in software engineer
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
       <br>Android
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-      <br>MaterialUI
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
-      <br>Styled
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
-    </td>
+    
+    
+    
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=dotnet" height="45" width="45" alt="dotnet" >
       <br>dotnet
