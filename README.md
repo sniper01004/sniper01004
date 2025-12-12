@@ -47,10 +47,11 @@ technologies to drive innovation and operational excellence in software engineer
     </td>
      <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C+
+      <br>C++
     </td>
   </tr>
 </table>
+<p> Frontend </p>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -77,6 +78,9 @@ technologies to drive innovation and operational excellence in software engineer
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
     </td>
+
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
@@ -92,16 +96,6 @@ technologies to drive innovation and operational excellence in software engineer
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
       <br>Django
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-      <br>Javascript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
