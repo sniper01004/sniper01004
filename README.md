@@ -22,66 +22,69 @@ technologies to drive innovation and operational excellence in software engineer
 ## Skill
 
 <div style="display: flex; flex-direction: column;">
-  <p> Language </p>
-  <table align="left" style="display: flex">
-   <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-      <br>Javascript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C#
-    </td>
-     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
-      <br>C++
-    </td>
-  </tr>
-</table> 
-  
-<br/>
-<p> Frontend </p>
-<table align="left">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
-      <br>svelte
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
-    </td>
-  </tr>
-</table>
+  <div>
+    <p> Language </p>
+    <table align="left" style="display: flex">
+     <tr>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+        <br>Javascript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+        <br>Typescript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+        <br>Python
+       </td>
+       <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+        <br>Java
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
+        <br>C#
+      </td>
+       <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+        <br>C++
+      </td>
+      </tr>
+    </table> 
+  </div>
+  <div>
+    <p> Frontend </p>
+    <table align="left">
+      <tr>
+        <td align="center" width="90">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+          <br>React
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+          <br>Next.js
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
+          <br>svelte
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+          <br>Vue
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+          <br>Nuxt.js
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+          <br>Angular
+        </td>
+      </tr>
+    </table>
+  </div>
+
 <table align="center">
   
   <tr>
