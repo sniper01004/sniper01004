@@ -19,8 +19,6 @@ Proven ability to lead complex projects end-to-end, collaborating across multidi
 solutions that align with business goals. Passionate about continuous learning and leveraging cutting-edge 
 technologies to drive innovation and operational excellence in software engineering
 
-## Skill
-
 <div>
   
 ## Language
@@ -55,7 +53,9 @@ technologies to drive innovation and operational excellence in software engineer
   </table> 
 </div>
 <div>
-  <p> Language </p>
+
+## Frontend
+
   <table align="left">
     <tr>
       <td align="center" width="90">
