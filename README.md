@@ -52,7 +52,7 @@ technologies to drive innovation and operational excellence in software engineer
   </tr>
 </table> 
 <p> Frontend </p>
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
@@ -78,8 +78,10 @@ technologies to drive innovation and operational excellence in software engineer
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
     </td>
-
   </tr>
+</table>
+<table align="center">
+  
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
