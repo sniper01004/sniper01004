@@ -52,37 +52,37 @@ technologies to drive innovation and operational excellence in software engineer
     </tr>
   </table> 
 </div>
-  <div style="display: flex; flex-direction: column;">
-    Frontend 
-    <table align="left">
-      <tr>
-        <td align="center" width="90">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-          <br>React
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-          <br>Next.js
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
-          <br>svelte
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-          <br>Vue
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-          <br>Nuxt.js
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-          <br>Angular
-        </td>
-      </tr>
-    </table>
-  </div>
+<div style="display: flex; flex-direction: column;">
+    <p> Language </p>
+  <table align="left">
+    <tr>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
+        <br>svelte
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+        <br>Vue
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+        <br>Nuxt.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+        <br>Angular
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- <table align="center">
   
