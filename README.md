@@ -23,7 +23,7 @@ technologies to drive innovation and operational excellence in software engineer
 
 <div style="display: flex; align-items: flex-start; align: center">
   <p> Language </p>
-  <table align="center">
+  <table align="left">
    <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
@@ -37,9 +37,17 @@ technologies to drive innovation and operational excellence in software engineer
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
     </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
       <br>C#
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C++
     </td>
   </tr>
 </table>
