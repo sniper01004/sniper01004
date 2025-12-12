@@ -17,13 +17,19 @@ enhance software quality and team productivity.
 
 Proven ability to lead complex projects end-to-end, collaborating across multidisciplinary teams to deliver impactful 
 solutions that align with business goals. Passionate about continuous learning and leveraging cutting-edge 
-technologies to drive innovation and operational excellence in software engineering
+technologies to drive innovation and operational excellence in Full Stack Engineer
 
 ## Service
 
 - Maintaining the same environment as customers and on-site
 - Accurately meet customer requirements within the given timeframe
 - Supports real-time updates even after the project is successfully launched
+- Always providing clean code
+
+## Experience
+
+As a full-stack engineer, I have extensive experience in website development, AI integration and AI agency, smart contracts, and Web3. 
+You'll gain a deeper understanding of my expertise by viewing the projects I've worked on.
 
   
 ## Skills
