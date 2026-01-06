@@ -1,23 +1,22 @@
-# Senior Full Stack Engineer | AI, BlockChain, Android
+# Senior Full Stack Developer
 
 ## Summary
 
-I am a Senior Full Stack Engineer with 10 years of proven expertise in designing, developing, and delivering scalable 
-full-stack applications. Proficient in a diverse set of programming languages, including JavaScript, TypeScript, 
-Python, Java, C#, and Rust, with a strong command of modern frontend frameworks such as React, Angular, Next.js, 
-React Native, and Vue.js. Skilled in building robust backend systems using Node.js, Django, Laravel, PHP, .NET, and 
-other technologies, with a focus on creating secure and performant RESTful APIs and real-time communication 
-features.
+I am a Senior Full Stack Developer with 10+ years of professional experience building scalable, high-performance web applications and leading end-to-end product development. My expertise spans modern frontend engineering, backend architecture, cloud platforms, database design, and DevOps automation.
 
-Demonstrates comprehensive knowledge of database management across both SQL (PostgreSQL, MySQL) and 
-NoSQL (MongoDB, Firebase, Redis) platforms. Experienced in cloud-native infrastructure and deployment utilizing 
-AWS and Azure, with expertise in containerization, infrastructure as code (IaC), autoscaling, and CI/CD pipelines to 
-ensure efficient and reliable delivery. Adept at implementing testing, DevOps practices, and agile methodologies to 
-enhance software quality and team productivity.
+I have worked across startups and enterprise environments, contributing to mission-critical systems, optimizing performance, and improving engineering quality and delivery. I take pride in designing clean, maintainable codebases, implementing best practices, and mentoring teams toward technical excellence.
 
-Proven ability to lead complex projects end-to-end, collaborating across multidisciplinary teams to deliver impactful 
-solutions that align with business goals. Passionate about continuous learning and leveraging cutting-edge 
-technologies to drive innovation and operational excellence in Full Stack Engineer
+My core strengths include:
+
+Frontend: React, Next.js, Vue, Angular, JavaScript, TypeScript, modern UI/UX architecture
+
+Backend: Node.js, Django, PHP, Laravel, REST/GraphQL APIs, microservices, asynchronous systems
+
+Cloud & DevOps: AWS / GCP, Docker, CI/CD, infrastructure automation
+
+Database: SQL/NoSQL, MySQL, Mongodb, Postgresql, scalability, and performance optimization
+
+I value thoughtful architecture, developer experience, and building systems that scale gracefully over time. I thrive in environments where engineering quality, ownership, and product thinking matter. Continuous learning, improving teams, and solving complex technical challenges are what motivate me as an engineer.
 
 ## Experience
 
